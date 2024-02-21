@@ -1,6 +1,7 @@
 .button {
   font: inherit;
   border: 1px solid #3b0062;
+  border-radius: 10px 10px 10px 10px;
   color: #3b0062;
   background: none;
   padding: 0.5rem 1rem;
